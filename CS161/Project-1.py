@@ -5,3 +5,5 @@
 #              prints out that that is their favorite animal
 
 fav_animal = input("Please enter your favorite animal: ")
+response = ("The animal you entered as your favorite was: " + fav_animal)
+print(response)
