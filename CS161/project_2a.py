@@ -1,6 +1,6 @@
 # Author: Eddi F. Miranda-Perez
 # GitHub username: edplan
-# Date: Apr, 06, 2022
+# Date: Apr. 06, 2022
 # Description: Asks the user for five numbers and then 
 # .............prints out the average of those numbers.
 
